@@ -1,18 +1,11 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+1. Next.js: Фреймворк для серверного рендеринга React-приложений.
+2. TypeScript: Язык программирования, расширяющий JavaScript статической типизацией.
+3. Tailwind CSS: Утилитарный CSS-фреймворк для быстрого создания интерфейсов.
+4. Three.js: Библиотека для создания 3D-графики в браузере.
+5. React Three Fiber: Обертка для использования Three.js в React-приложениях.
+6. @react-three/drei: Набор полезных компонентов для React Three Fiber.
+7. Framer Motion: Библиотека для анимации в React-приложениях.
+8. GSAP: Библиотека для создания высокопроизводительных анимаций.
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
